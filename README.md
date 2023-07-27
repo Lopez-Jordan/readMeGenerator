@@ -9,7 +9,7 @@ Simply run node on the 'index.js' of the cloned repository from my (Jordan Lopez
 
 
 ## Installation
-1: Clone my repository to your computer, 2: change directory into that readMeGenerator repository, run `node index.js` in your command line and that's all!
+1: Clone my repository to your computer, 2: change directory into that readMeGenerator repository, 3: run `npm install inquirer@8.2.4`, 4: run `node index.js` in your command line and answer the questions! *Must have node installed already
 <br>
 click [HERE](https://drive.google.com/file/d/12_-6392G5xreUXjSgHT5U9JUkAND0Haf/view) for a video tutorial
 
